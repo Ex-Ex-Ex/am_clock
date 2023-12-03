@@ -1,6 +1,7 @@
 extern crate chrono;
 extern crate clap;
 extern crate crc8_rs;
+extern crate serialport;
 
 use chrono::{Datelike, FixedOffset, Local, TimeZone, Timelike};
 use clap::Parser;
