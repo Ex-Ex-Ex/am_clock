@@ -1,0 +1,13 @@
+[package]
+name = "am-clock"
+version = "1.0.0"
+authors = ["$ExExEx$ <ex.ex@gmx.net>"]
+description = "Cyberboard clock update tool"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.31"
+clap = { version = "4.4.10", features = ["derive"] }
+crc8-rs = "1.1.1"
+serialport = "4.2.2"
