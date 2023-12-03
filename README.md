@@ -1,6 +1,6 @@
 #AM Clock tool
 
-![](https://img.shields.io/github/stars/ex-ex-ex/am_clock)
+![Stars](https://img.shields.io/github/stars/ex-ex-ex/am_clock) ![Dynamic TOML Badge](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FEx-Ex-Ex%2Fam_clock%2Fmain%2FCargo.toml&query=package.version&label=Version)
 
 Small utility to update the clock of Angry Miao Cyberboards to the PC's local time
 
